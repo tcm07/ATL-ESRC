@@ -120,7 +120,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2026,5.042,4.378,Entire Series
 8/1/2026,7.15,4.551,Entire Series
 9/1/2026,6.981,4.55,Entire Series
-10/1/2026,,4.701,Entire Series
+10/1/2026,4.234,4.701,Entire Series
 11/1/2026,,4.781,Entire Series
 12/1/2026,,5.17,Entire Series
 1/1/2027,,5.237,Entire Series
@@ -132,7 +132,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2027,,5.505,Entire Series
 8/1/2027,,5.655,Entire Series
 9/1/2027,,5.61,Entire Series
-9/1/2025,3.534,4.028,Last 12 months
+10/1/2027,,5.495,Entire Series
 10/1/2025,3.292,4.361,Last 12 months
 11/1/2025,3.427,4.998,Last 12 months
 12/1/2025,2.602,5.263,Last 12 months
@@ -145,7 +145,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2026,5.042,4.378,Last 12 months
 8/1/2026,7.15,4.551,Last 12 months
 9/1/2026,6.981,4.55,Last 12 months
-10/1/2026,,4.701,Last 12 months
+10/1/2026,4.234,4.701,Last 12 months
 11/1/2026,,4.781,Last 12 months
 12/1/2026,,5.17,Last 12 months
 1/1/2027,,5.237,Last 12 months
@@ -157,7 +157,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2027,,5.505,Last 12 months
 8/1/2027,,5.655,Last 12 months
 9/1/2027,,5.61,Last 12 months
-9/1/2023,4.842,4.837,Last 3 years
+10/1/2027,,5.495,Last 12 months
 10/1/2023,3.598,4.564,Last 3 years
 11/1/2023,2.228,4.838,Last 3 years
 12/1/2023,3.965,5.466,Last 3 years
@@ -194,7 +194,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2026,5.042,4.378,Last 3 years
 8/1/2026,7.15,4.551,Last 3 years
 9/1/2026,6.981,4.55,Last 3 years
-10/1/2026,,4.701,Last 3 years
+10/1/2026,4.234,4.701,Last 3 years
 11/1/2026,,4.781,Last 3 years
 12/1/2026,,5.17,Last 3 years
 1/1/2027,,5.237,Last 3 years
@@ -206,7 +206,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2027,,5.505,Last 3 years
 8/1/2027,,5.655,Last 3 years
 9/1/2027,,5.61,Last 3 years
-9/1/2021,12.075,2.183,Last 5 years
+10/1/2027,,5.495,Last 3 years
 10/1/2021,9.237,3.356,Last 5 years
 11/1/2021,10.994,3.544,Last 5 years
 12/1/2021,9.031,3.801,Last 5 years
@@ -267,7 +267,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2026,5.042,4.378,Last 5 years
 8/1/2026,7.15,4.551,Last 5 years
 9/1/2026,6.981,4.55,Last 5 years
-10/1/2026,,4.701,Last 5 years
+10/1/2026,4.234,4.701,Last 5 years
 11/1/2026,,4.781,Last 5 years
 12/1/2026,,5.17,Last 5 years
 1/1/2027,,5.237,Last 5 years
@@ -279,6 +279,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2027,,5.505,Last 5 years
 8/1/2027,,5.655,Last 5 years
 9/1/2027,,5.61,Last 5 years
+10/1/2027,,5.495,Last 5 years
 2/1/2018,5.898,4.32,2018 onward
 3/1/2018,4.261,4.309,2018 onward
 4/1/2018,5.544,4.715,2018 onward
@@ -383,7 +384,7 @@ Survey,Realized,Expected,TimePeriod
 7/1/2026,5.042,4.378,2018 onward
 8/1/2026,7.15,4.551,2018 onward
 9/1/2026,6.981,4.55,2018 onward
-10/1/2026,,4.701,2018 onward
+10/1/2026,4.234,4.701,2018 onward
 11/1/2026,,4.781,2018 onward
 12/1/2026,,5.17,2018 onward
 1/1/2027,,5.237,2018 onward
@@ -395,3 +396,4 @@ Survey,Realized,Expected,TimePeriod
 7/1/2027,,5.505,2018 onward
 8/1/2027,,5.655,2018 onward
 9/1/2027,,5.61,2018 onward
+10/1/2027,,5.495,2018 onward
